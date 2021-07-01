@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.laobi.icu/badge?page_id=levina-lab)
 # My Stuffs:-
 
-- A Low End Laptop🙂🙂
-- Notepad++
-- Telegram  😂😂
+- Student
+- Visual Studio Code ++
+- Telegram 🌸
