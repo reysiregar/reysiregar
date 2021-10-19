@@ -1,6 +1,8 @@
-### Hello There 👋🏻, welcome to my GitHub profile, let me introduce you about myself, name is Reynaldi Siregar; 17 y.o from Indonesia.
+### Hello There 👋🏻, welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+Let me introduce you about myself, my name is Reynaldi Siregar; 17 y.o from Indonesia. My hobby is Listening music, Playing Game, design & create logos, images.
+
+Other thing you need to know:
 
 - 🌱 I’m currently learning on programming.
 - 💬 Ask me about Telegram Bot
