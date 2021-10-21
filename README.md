@@ -9,7 +9,7 @@ Other thing you need to know:
 - 📫 Contact me on: [Telegram](https://t.me/dlwrml)
 
 ### My Stats
-![The-Terminal's github stats](https://github-readme-stats.vercel.app/api?username=levina-lab&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800)
+![Levina-Lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=levina-lab&show_icons=true&theme=radical)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=levina-lab&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/levina-lab)
 
