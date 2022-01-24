@@ -16,7 +16,6 @@ Other thing you need to know:
 ![](https://visitor-badge.laobi.icu/badge?page_id=levina-lab)
 # My Stuffs:~
 
-- Student
-- Graphic Designer
-- Visual Studio Code ++
-- Telegram ✨
+- Termux 😂
+- PyCharm 😳
+- Visual Studio Code 😎
