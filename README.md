@@ -1,12 +1,12 @@
-### Hello There 👋🏻, welcome to my GitHub profile.
+### Hello There 👋🏻!
 
-Let me introduce you about myself, my name is Reynaldi Siregar; 17 y.o from Indonesia. My hobby is Listening music, Playing Game, Poster Design & Logo making.
+My Name is Reynaldi Siregar, 18 y.o student, from Indonesia.
 
-Other thing you need to know:
+More about me:
 
-- 🌱 I’m currently learning on programming.
-- 💬 Ask me about Telegram Bot only.
-- 📫 Contact me on: [Telegram](https://t.me/vionite)
+- 🌱 Still Learning on IT.
+- 💬 Ask Anything about TG bot.
+- 📫 Reach Me: [Telegram](https://t.me/reysiregars)
 
 ### My Stats
 ![Levina-Lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=levina-lab&show_icons=true&theme=radical)
@@ -16,9 +16,5 @@ Other thing you need to know:
 ![](https://visitor-badge.laobi.icu/badge?page_id=levina-lab)
 
 # My Tools:
-- PyCharm
-- Numpy
 - Visual Studio Code
 - GitHub CLI
-- Heroku Cli
-- PyQT
