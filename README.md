@@ -6,15 +6,16 @@ More about me:
 
 - 🌱 Still Learning on IT.
 - 💬 Ask Anything about TG bot.
-- 📫 Reach Me: [Telegram](https://t.me/reysiregars)
+- 📫 Reach me at [Telegram](https://t.me/reysiregars)
 
 ### My Stats
-![Levina-Lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=levina-lab&show_icons=true&theme=radical)
+![Levina-Lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=reysiregar&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=levina-lab&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/levina-lab)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=reysiregar&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/reysiregar)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=levina-lab)
+![](https://visitor-badge.laobi.icu/badge?page_id=reysiregar)
 
 # My Tools:
 - Visual Studio Code
+- Xcode
 - GitHub CLI
