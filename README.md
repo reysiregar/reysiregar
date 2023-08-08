@@ -17,5 +17,4 @@ More about me:
 
 # My Tools:
 - Visual Studio Code
-- Xcode
 - GitHub CLI
