@@ -1,8 +1,8 @@
 👋🏻 Hi There!
 
-My Name is Reynaldi Wiratama Siregar, from Indonesia. Currently studying at Gunadarma University as an Information Systems student.
+My name is Reynaldi Wiratama Siregar, from Indonesia. Currently studying at Gunadarma University as an Information Systems student.
 
-More about me:
+About me:
 
 - 🌱 Still Learning on IT.
 - 💬 Topics: Webs & Telegram Bot.
