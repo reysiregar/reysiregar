@@ -1,6 +1,6 @@
-Hi There 👋🏻!
+👋🏻 Hi There!
 
-My Name is Reynaldi Wiratama Siregar, 18 y.o student, from Indonesia. Currently studying at Gunadarma University as an Information Systems student.
+My Name is Reynaldi Wiratama Siregar, from Indonesia. Currently studying at Gunadarma University as an Information Systems student.
 
 More about me:
 
@@ -18,4 +18,5 @@ More about me:
 # My Tools:
 - Visual Studio Code
 - GitHub CLI
-- Ubuntu
+- Visual Basic Studio
+- Anaconda
