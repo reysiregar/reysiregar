@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👾 Reynaldi Siregar
+# 👨🏼‍💻 Reynaldi Siregar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C22F7&center=true&vCenter=true&width=435&lines=Information+System+Student;Front-End+Developer;IT+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=42b883&center=true&vCenter=true&width=435&lines=Information+System+Student;Front-End+Developer;IT+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
@@ -43,7 +43,7 @@ const rey = {
   
 ![Reynaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reysiregar&show_icons=true&theme=tokyonight)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reysiregar&layout=compact&theme=tokyonight&hide=Css)](https://github.com/reysiregar)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reysiregar&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=reysiregar&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
@@ -59,7 +59,7 @@ const rey = {
 <div align="center">
   
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/reysiregars)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/reysiregar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/reynaldi-siregar-490b8b261)
 
 </div>
 
