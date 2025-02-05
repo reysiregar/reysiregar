@@ -42,8 +42,7 @@ const rey = {
 <div align="center">
   
 ![Reynaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reysiregar&show_icons=true&theme=tokyonight)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reysiregar&layout=compact&theme=tokyonight&hide=Css)](https://github.com/reysiregar)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=reysiregar&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reysiregar&theme=tokyonight&hide=Css)](https://github.com/reysiregar)
 
 </div>
 
