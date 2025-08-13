@@ -7,20 +7,20 @@ I'm passionate about crafting beautiful and interactive web experiences. I love 
 ### 🔧 Tech Stack
 
 - 💻 **Languages:** JavaScript, Python, Go
-- 🌐 **Frameworks/Libraries:** Vue.js, React.js, Next.js, Tailwind CSS, Bootstrap, Gin, Fiber
+- 🌐 **Frameworks/Libraries:** Vue.js, React.js, Next.js, Express.js, Node.js, Tailwind CSS, Bootstrap
 - 🛠 **Tools:** Git, Webpack, Vite
 - 🗄 **Databases:** MySQL, MongoDB
 
 ### 🌱 Currently Exploring
 
 - Learning GoLang & Web3 (Layer 3)
-- Advanced Vue.js & React.js
-- Performance optimization in web development
-- Expanding my JavaScript & AI knowledge
+- Advanced Next.js & React.js
+- SEO optimization in web development
+- Expanding my ML & AI knowledge
 
 ### 📊 GitHub Stats
 
-![Reynaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reysiregar&show_icons=true&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=reysiregar&show_icons=true&theme=tokyonight)
 
 ### 📫 Let's Connect  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=react&logoColor=white)](https://reysportfolio.vercel.app)
